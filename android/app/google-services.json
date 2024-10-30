@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "284117889308",
+    "project_id": "foodys-7b4be",
+    "storage_bucket": "foodys-7b4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284117889308:android:2c0af06b4ca934aaa00ad9",
+        "android_client_info": {
+          "package_name": "com.example.foodys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284117889308-457i7busibknsvrkdmn5dk6klq1ejagl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodys",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyjoBnXvLRq9QKeCFiXPoQgp1-gD9MtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284117889308-1lbtr93sdqp844n53g9n5ecvp891nf4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284117889308:android:44997d57b4ed5ee5a00ad9",
+        "android_client_info": {
+          "package_name": "com.example.foodys_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyjoBnXvLRq9QKeCFiXPoQgp1-gD9MtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284117889308-1lbtr93sdqp844n53g9n5ecvp891nf4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284117889308:android:19f039c1c1871949a00ad9",
+        "android_client_info": {
+          "package_name": "com.example.foodys_saller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284117889308-8oc1dm620sk5aq4vlimdi800lqjvc1vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodys_saller",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyjoBnXvLRq9QKeCFiXPoQgp1-gD9MtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284117889308-1lbtr93sdqp844n53g9n5ecvp891nf4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284117889308:android:b67e65ba18e565eaa00ad9",
+        "android_client_info": {
+          "package_name": "com.example.google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284117889308-qffbovmujjifm9bakbphipens626qq2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_map",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyjoBnXvLRq9QKeCFiXPoQgp1-gD9MtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284117889308-8l422anhp2s30ud1v6tc3coai454put4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284117889308-1lbtr93sdqp844n53g9n5ecvp891nf4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
