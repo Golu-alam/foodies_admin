@@ -1,5 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:foodys_admin/views/screens/home/home_screen.dart';
+import 'package:foodys_admin/views/screens/seller/get_all_seller_screen.dart';
 import 'package:foodys_admin/views/screens/upload_slider_image/upload_Slider_image_screen.dart';
 import 'package:get/get.dart';
 import 'firebase_options.dart';
@@ -24,7 +26,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const UploadSliderImageScreen(),
+      home: const HomeScreen(),
+      // home: const UploadSliderImageScreen(),
     );
   }
 }
