@@ -41,7 +41,8 @@ class UploadSliderImageScreen extends StatelessWidget {
               // }, child: const Text("Save"))
               CustomDefaultButton(data: 'Save', onTap: () {
                 imageSliderController.addSliderImage();
-              },)
+
+              },controller: imageSliderController.isLoading,)
             ],
           ),
         ),

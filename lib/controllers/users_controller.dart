@@ -11,7 +11,7 @@ class UsersController extends GetxController{
     try{
       FirebaseConst
           .db
-          .collection("usersss")
+          .collection("users")
           .snapshots()
           .listen((snapshot) => allUsers.value = snapshot.docs
           .map((doc) => UserModel.fromJson(doc.data()),).toList(),);
